@@ -9,5 +9,11 @@
   <h1 class="text-3xl font-bold underline bg-red-900">
     Hello world!
   </h1>
+  <h2 class="font-roboto">
+  jsuis roboto
+  </h2>
+  <h2 class="poppins">
+  jsuis poppins
+  </h2>
 </body>
 </html>
